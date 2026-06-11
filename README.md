@@ -10,7 +10,7 @@ The deployment process is fully automated using GitHub Webhooks. Whenever a deve
 
 # Project Architecture
 
-![ubuntu](imgs/architecture-diagram.svg)
+![ubuntu](imgs/arc-dia.png)
 
 ```text
 Developer
